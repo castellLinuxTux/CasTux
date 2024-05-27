@@ -56,6 +56,6 @@ llistar_grups() {
     mostrar_menu
 }
 
-mostrar_menu1,1           Top
+mostrar_menu
 
 
